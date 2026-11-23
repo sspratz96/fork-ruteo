@@ -1,0 +1,3 @@
+id,nombre,direccion,lat,lng,horario_google,prioridad,servicio_min,demanda_manana,recep_ini_manana,recep_fin_manana,demanda_tarde,recep_ini_tarde,recep_fin_tarde
+ej1,Tienda Ejemplo A,Dirección ficticia 1,-33.42,-70.60,,1,15,10,08:00,11:00,5,15:00,18:00
+ej2,Tienda Ejemplo B,Dirección ficticia 2,-33.41,-70.57,,0,15,12,08:00,12:00,,,

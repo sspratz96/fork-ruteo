@@ -1,0 +1,15 @@
+# Datos reales y salidas (pueden contener información de Fork)
+tiendas.csv
+matriz_*.json
+plan_*.csv
+
+# Secretos
+.env
+gurobi.lic
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
