@@ -1,5 +1,7 @@
 # Ruteo de despachos Fork (MT-VRPTW en Gurobi)
 
+> Proyecto personal. No está afiliado a Betterfood SpA ni a Fork y no usa datos internos de la empresa.
+
 Pipeline por turno: `buscar_tiendas.py` (una vez) → `ejecutar_turno.py` (cada turno: matriz con tráfico vía Routes API → MILP → validación → `plan_<fecha>_<turno>.csv`).
 
 ## Formulación (un turno)
